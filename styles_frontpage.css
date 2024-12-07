@@ -16,8 +16,26 @@ body {
   font-weight: 400;
   font-style: normal;
 }
-.ulli {
+.ulli1 {
     color: brown;
     list-style-position: inside;
 
+}
+.ulli {
+  list-style-position: inside;
+  color:black
+}
+h2,h3 {
+  color: brown;
+}
+#mainp {
+  background-color: rgba(211, 157, 87, 0.801);
+  color: white;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+body,html {
+  margin: 0;
+  height: 100%;
 }
